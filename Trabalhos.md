@@ -24,13 +24,15 @@
 
 
 ## <img src="https://github.com/user-attachments/assets/33a2a630-96e3-421c-b5bf-c55fd9c44bae" width="30">  [Trabalho 2 - Restaurante Universitário](https://github.com/brunamota/POO/files/15017616/Trabalho.2.-.POO.pdf)
-- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> Oie
+
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> [RU - Cardápio.zip](https://github.com/user-attachments/files/16215594/RU.-.Cardapio.zip)
+
 
 ## <img src="https://github.com/user-attachments/assets/dbd2d408-a403-40c3-be1e-3d266de5f784" width="30"> [Trabalho 3 - Semáforo](https://github.com/brunamota/POO/files/15017683/Trabalho.3.-.POO.pdf)
-- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> Oie
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> [Semaforo.zip](https://github.com/user-attachments/files/16215595/Semaforo.zip)
 
 ## <img src="https://github.com/user-attachments/assets/8089840f-1aaa-4a92-9a74-a71007587bbc" width="30"> [Trabalho 4 - Padrões de Projeto](https://github.com/user-attachments/files/16045775/Trabalho.4.-.POO.pdf)
-- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> Oie
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> *Ainda não feito*
 
 
 
