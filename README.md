@@ -28,4 +28,4 @@
 
 <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20"> [Aulas](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/tree/main/Aulas)
 
-<img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">[Trabalhos]([https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/blob/main/Trabalho.md](https://github.com/Ttorricelli/POO/blob/main/Trabalhos.md))
+<img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">[Trabalhos](https://github.com/Ttorricelli/POO/blob/main/Trabalhos.md)
