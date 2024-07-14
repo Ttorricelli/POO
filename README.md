@@ -2,11 +2,11 @@
 
 #
 
-### <img src="https://github.com/user-attachments/assets/f8a9c40c-63f5-4ecb-ad70-f15e42da6365" width="20"> **Ciência da Computação - ICET/UFJ** 
+### **Ciência da Computação - ICET/UFJ** 
 
-### <img src="https://github.com/user-attachments/assets/f8a9c40c-63f5-4ecb-ad70-f15e42da6365" width="20"> Discente: Pablo Ricardo Da Silva 
+### Discente: Tatielly Cristine Leal de Araújo
 
-## Horário das Aulas
+## <img src="https://github.com/user-attachments/assets/f8a9c40c-63f5-4ecb-ad70-f15e42da6365" width="20"> Horário das Aulas
 
 - Segunda - 13h30 às 15h10 - LEC 03
 
