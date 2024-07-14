@@ -3,7 +3,24 @@
 
 # PDFs dos Trabalhos onde estão as questões!
 <img src="https://github.com/user-attachments/assets/944023ff-3337-47e9-970b-7c5e54018c0c" width="20">  [Trabalho 1 - Lista + Kahoot](https://github.com/brunamota/POO/files/15017615/Trabalho.1.-.POO.pdf)
-- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> Oie
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> 01) [Calculadora.zip](https://github.com/user-attachments/files/16215576/Calculadora.zip)
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> 02) [Pessoa.zip](https://github.com/user-attachments/files/16215578/Pessoa.zip)
+
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> 03) [Pessoa2.zip](https://github.com/user-attachments/files/16215579/Pessoa2.zip)
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> 04) [Veiculos.zip](https://github.com/user-attachments/files/16215581/Veiculos.zip)
+
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> 05) [Data.zip](https://github.com/user-attachments/files/16215582/Data.zip)
+
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> 06)[CadernoDeEnderecos.zip](https://github.com/user-attachments/files/16215583/CadernoDeEnderecos.zip)
+
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> 07) [Conta.zip](https://github.com/user-attachments/files/16215584/Conta.zip)
+
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> 08) [Pais.zip](https://github.com/user-attachments/files/16215585/Pais.zip)
+
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> 09) [EntradaDeCinema.zip](https://github.com/user-attachments/files/16215586/EntradaDeCinema.zip)
+
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> 10) [Notas.zip](https://github.com/user-attachments/files/16215588/Notas.zip)
+
 
 <img src="https://github.com/user-attachments/assets/33a2a630-96e3-421c-b5bf-c55fd9c44bae" width="30">  [Trabalho 2 - Restaurante Universitário](https://github.com/brunamota/POO/files/15017616/Trabalho.2.-.POO.pdf)
 - <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> Oie
