@@ -19,9 +19,9 @@
 <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20"> Java - https://www.oracle.com/technetwork/java/javase/downloads
 
 ## <img src="https://github.com/user-attachments/assets/3f67f0e8-d0e8-4862-918e-8701a86409f0" width="30"> Bônus
-<img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20"> Criar um GitHub para organizar as atividades da disciplina(A meta é ganhar)
+<img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20"> Criar um GitHub para organizar as atividades da disciplina
 
-<img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20"> Maior sequência de dias no Sololearn (Infelizmente me irritei e kitei desse)
+<img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20"> Maior sequência de dias no Sololearn ---
 
 ## <img src="https://github.com/user-attachments/assets/6fc595ad-87ad-48ac-ba70-9cd067c87128" width="30"> Documentos da Disciplina
 <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20"> [Plano de Ensino](https://github.com/brunamota/POO/files/15017784/Plano.de.Ensino.POO.-.01_2024.pdf)
