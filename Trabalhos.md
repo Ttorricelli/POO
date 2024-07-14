@@ -1,17 +1,18 @@
 <img src="https://github.com/user-attachments/assets/2f9f4933-38b7-475d-a1d7-302c33505d06" width="650"> <img src="https://github.com/user-attachments/assets/93a591d1-4b04-47d1-a059-46172c5d54e9" width="200">
 
+
 # PDFs dos Trabalhos onde estão as questões!
 <img src="https://github.com/user-attachments/assets/944023ff-3337-47e9-970b-7c5e54018c0c" width="20">  [Trabalho 1 - Lista + Kahoot](https://github.com/brunamota/POO/files/15017615/Trabalho.1.-.POO.pdf)
-- *Jacaré*
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> Oie
 
 <img src="https://github.com/user-attachments/assets/33a2a630-96e3-421c-b5bf-c55fd9c44bae" width="30">  [Trabalho 2 - Restaurante Universitário](https://github.com/brunamota/POO/files/15017616/Trabalho.2.-.POO.pdf)
-- *Jacaré*
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> Oie
 
 <img src="https://github.com/user-attachments/assets/dbd2d408-a403-40c3-be1e-3d266de5f784" width="30"> [Trabalho 3 - Semáforo](https://github.com/brunamota/POO/files/15017683/Trabalho.3.-.POO.pdf)
-- *Jacaré*
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> Oie
 
 <img src="https://github.com/user-attachments/assets/8089840f-1aaa-4a92-9a74-a71007587bbc" width="30"> [Trabalho 4 - Padrões de Projeto](https://github.com/user-attachments/files/16045775/Trabalho.4.-.POO.pdf)
-- *Jacaré*
+- <img src="https://github.com/user-attachments/assets/4cdc79b4-19f0-465f-8e5f-9e71eee31bb1" width="20"> Oie
 
 
 
