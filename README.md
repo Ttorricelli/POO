@@ -12,7 +12,7 @@
 
 - Quinta - 7h30 às 9h10 - LEC 03
 
-## Ferramentas utilizada na matéria
+## <img src="https://github.com/user-attachments/assets/33df927d-afed-418f-9637-7e75333512ae" width="30"> Ferramentas utilizada na matéria
 
 ![New Piskel](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/7289ed8a-4661-4fc7-abe1-c2bacbd75100) IDE - https://netbeans.apache.org/front/main/index.html ou https://www.jetbrains.com/idea/
 
