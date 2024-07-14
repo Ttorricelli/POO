@@ -4,7 +4,8 @@
 
 ### **Ciência da Computação - ICET/UFJ** 
 
-### Discente: Tatielly Cristine Leal de Araújo
+### Doscente: Bruna Mota Barbosa
+*Discente: Tatielly Cristine Leal de Araújo*
 
 ## <img src="https://github.com/user-attachments/assets/f8a9c40c-63f5-4ecb-ad70-f15e42da6365" width="20"> Horário das Aulas
 
